@@ -1,1 +1,2 @@
 # AdiosMundo
+Editado por dani
