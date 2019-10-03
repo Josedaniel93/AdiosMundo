@@ -8,11 +8,8 @@ public class Ejercicio11 {
 		String azul = "\033[34m";
 		String reset = "\033[0m";
 
-		System.out.println(naranja+"Adios Mundo"+reset);
-		
-		System.out.println(azul+"Pero volvere"+reset);		
-	
-		
+		System.out.println(naranja+"You're aren't"+reset);
+		System.out.println(azul+"(dab)"+reset);
 	}
 
 }
