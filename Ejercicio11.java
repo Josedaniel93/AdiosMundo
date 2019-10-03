@@ -9,10 +9,11 @@ public class Ejercicio11 {
 		String reset = "\033[0m";
 
 		System.out.println(naranja+"Adios Mundo"+reset);
-		
-		System.out.println(azul+"Pero volvere"+reset);		
-	
-		
+
+		System.out.println(azul+"Pero volvere"+reset);
+
+		System.out.println("Me quiero ir ya a casa");
+
 	}
 
 }
