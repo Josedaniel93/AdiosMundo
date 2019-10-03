@@ -6,10 +6,11 @@ public class Ejercicio11 {
 
 		String naranja = "\033[33m";
 		String azul = "\033[34m";
+		String reset = "\033[0m";
 
-		System.out.println(naranja+"Adios Mundo");
+		System.out.println(naranja+"Adios Mundo"+reset);
 		
-		System.out.println(azul+"Pero volvere");		
+		System.out.println(azul+"Pero volvere"+reset);		
 	
 		
 	}
